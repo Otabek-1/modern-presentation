@@ -26,6 +26,7 @@ body {
     background-color: black;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     transition: .5s;
+    overflow: hidden;
 }
 
 .entrance-animation {
